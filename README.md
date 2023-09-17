@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amaljith-AK
 - 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django-Rest,Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8089494100
 
